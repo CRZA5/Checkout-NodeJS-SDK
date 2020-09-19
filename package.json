@@ -40,5 +40,5 @@
     "url": "https://github.com/paypal/Checkout-NodeJS-SDK/issues"
   },
   "typings": "./paypal__checkout-server-sdk.d.ts",
-  "types": "paypal__checkout-server-sdk.d.ts"
+  "types": "./paypal__checkout-server-sdk.d.ts"
 }
